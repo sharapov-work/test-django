@@ -4,4 +4,4 @@ from django.views import View
 class MyView(View):
 
     def get(self, request, *args, **kwargs):
-        return HttpResponse('Hello, DOLBAEB!')
+        return HttpResponse('Hello, sfsdfd!')
